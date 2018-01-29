@@ -265,7 +265,6 @@
 		<block name="ArmorSmithingWorkstation" prob="0.1"/>
 		<block name="AdvancedToolWorkbench" prob="0.1"/>
 		<block name="buildersWorkbench" prob="0.1"/>
-		<block name="ClothingWorkStation" prob="0.1"/>
 	</placeholder>
 
 	<placeholder name="lootWorkstationsBustedHelper">
@@ -282,7 +281,6 @@
 		<block name="ArmorSmithingWorkstation" prob="0.1"/>
 		<block name="AdvancedToolWorkbench" prob="0.1"/>
 		<block name="buildersWorkbench" prob="0.1"/>
-		<block name="ClothingWorkStation" prob="0.1"/>
 	</placeholder>
 
 	<placeholder name="lootForgeBustedHelper">
